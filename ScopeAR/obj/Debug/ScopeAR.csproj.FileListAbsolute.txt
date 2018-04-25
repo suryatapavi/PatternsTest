@@ -1,0 +1,7 @@
+D:\ScopeAR\ScopeAR\ScopeAR\bin\Debug\ScopeAR.exe.config
+D:\ScopeAR\ScopeAR\ScopeAR\bin\Debug\ScopeAR.exe
+D:\ScopeAR\ScopeAR\ScopeAR\bin\Debug\ScopeAR.pdb
+D:\ScopeAR\ScopeAR\ScopeAR\obj\Debug\ScopeAR.csprojResolveAssemblyReference.cache
+D:\ScopeAR\ScopeAR\ScopeAR\obj\Debug\ScopeAR.csproj.CoreCompileInputs.cache
+D:\ScopeAR\ScopeAR\ScopeAR\obj\Debug\ScopeAR.exe
+D:\ScopeAR\ScopeAR\ScopeAR\obj\Debug\ScopeAR.pdb
